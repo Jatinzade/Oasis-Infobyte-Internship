@@ -8,11 +8,10 @@ table{
 }
 
 input{
-    border-radius: 21px;
     border: 5px solid #323115;
-    font-size:34px;
-    height: 135px;
-    width: 456px;
+    font-size: 34px;
+    height: 94px;
+    width: 375px;
     border-radius: 30px;
     background-color: #ecf9f9;
 }
@@ -29,23 +28,20 @@ button{
 }
 
 .calculator{ 
-    border: 0px solid rgb(0, 0, 0);
     background-color: #3aafa9;
     border-width: 1px;
-    padding: 21px;
+    padding: 17px;
     border-radius: 30px;
     border: 7px solid #000000;
     display: inline-block;
+    height: 557px;
 }
     
-
-
 h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+
 i{
     opacity: 0.5;
-    position: relative;
-    right: 86px;
 }
