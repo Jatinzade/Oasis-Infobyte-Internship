@@ -11,8 +11,8 @@ input{
     border: 5px solid #323115;
     font-size: 34px;
     height: 94px;
-    width: 375px;
-    border-radius: 30px;
+    width: 412px;
+    border-radius: 17px;
     background-color: #ecf9f9;
 }
 
@@ -34,7 +34,7 @@ button{
     border-radius: 30px;
     border: 7px solid #000000;
     display: inline-block;
-    height: 557px;
+    height: 615px;
 }
     
 h1{
